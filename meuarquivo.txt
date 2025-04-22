@@ -1,0 +1,4 @@
+execute o comando:  touch <nomeDoArquivo>
+
+Informação: Como exemplo, o nome do arquivo será “meu_novo_arquivo.txt”. 
+Esse comando adicionará esse arquivo (que é um .txt vazio) ao meu repositório na branch “BranchExemplo”
